@@ -132,7 +132,7 @@ nav ul li a:hover, a.active{
     cursor: pointer;
     box-shadow: 2px 2px 5px gray;
     margin-left: 2px;
-    
+    border-radius: 5px;
 }
 #bookingConfirmBtn{
     cursor: pointer;
